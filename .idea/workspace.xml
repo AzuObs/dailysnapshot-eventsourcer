@@ -1,224 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa0400bb-0993-47db-806d-050437a6866a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/hydra.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_0_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_0_5_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_0_5_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/ovo-test-build.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/build.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$11e0d9956b3c18c8d442$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$11e0d9956b3c18c8d442.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$11e0d9956b3c18c8d442.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$1828d8015ad6abf94bc5$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$1828d8015ad6abf94bc5.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$1828d8015ad6abf94bc5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$68d101db6caa7c8d22ea$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$68d101db6caa7c8d22ea.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$68d101db6caa7c8d22ea.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$832648cfd7d7136d97a1$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$832648cfd7d7136d97a1.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$832648cfd7d7136d97a1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/ovo-test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/ovo-test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-ovo-test-build-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/dailysnapshoteventsourcer/Aggregator.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/dailysnapshoteventsourcer/Data.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/dailysnapshoteventsourcer/Main.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/dailysnapshoteventsourcer/Types.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/com/dailysnapshoteventsourcer/AggregatorSpec.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/.history" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Aggregator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Data$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Data.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Main$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Main$delayedInit$body.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Types$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Types$MonthlyConsumption$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Types$MonthlyConsumption.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/dailysnapshoteventsourcer/Types.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/dailysnapshot-eventsourcer_2.12-0.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/ovo-test_2.12-0.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/dailysnapshot-eventsourcer/dailysnapshot-eventsourcer$sources/0.1/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/dailysnapshot-eventsourcer/dailysnapshot-eventsourcer$sources/0.1/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/dailysnapshot-eventsourcer/dailysnapshot-eventsourcer_2.12/0.1/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/dailysnapshot-eventsourcer/dailysnapshot-eventsourcer_2.12/0.1/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/ovo-test$sources/0.1/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/ovo-test$sources/0.1/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/ovo-test_2.12/0.1/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/ovo-test_2.12/0.1/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.1/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.1/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer$sources-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/dailysnapshot-eventsourcer-dailysnapshot-eventsourcer_2.12-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test$sources-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-ovo-test_2.12-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/com/dailysnapshoteventsourcer/AggregatorSpec.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/testListeners/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/exportedProductJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProductJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/fullClasspathAsJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyAsJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/definedTestNames/data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/$global/$global/discoveredMainClasses/data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/compile/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/copyResources/$global/streams/copy-resources" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/copyResources/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/loadedTestFrameworks/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=com.dailysnapshoteventsourcer.AggregatorSpec/test/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=com.ovotest.AggregatorSpec/test/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/com.dailysnapshoteventsourcer.AggregatorSpec.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/com.ovotest.AggregatorSpec.xml" />
-    </list>
+    <list default="true" id="aa0400bb-0993-47db-806d-050437a6866a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -237,21 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -569,12 +342,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535041444337</updated>
-      <workItem from="1535041446180" duration="8218000" />
+      <workItem from="1535041446180" duration="8317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8218000" />
+    <option name="totallyTimeSpent" value="8317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1297" height="780" extended-state="6" />
@@ -736,16 +509,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>
