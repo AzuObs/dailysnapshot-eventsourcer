@@ -1,9 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mAggregatorSpec:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32maggregateMonthlyConsumptions[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should aggregate DailySnapshots within the same month and year to a MonthlyConsumption[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should aggregate DailySnapshots into different months[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should aggregate DailySnapshots into different years and months[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should consider the case where a DailySnapshot meter reading can overflow[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should return an empty MonthlyConsumption if no DailySnapshots are provided[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should return an empty MonthlyConsumption if only one DailySnapshot is provided[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should return a MonthlyConsumption if at least two DailySnapshots are provided[0m[0m
