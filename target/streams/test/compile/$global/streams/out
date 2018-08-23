@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/azuobs/projects/ovo-test/src/test/scala/com/ovotest/AggregatorSpec.scala:90:9: (String, Double) does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m        ("2019-01-02T00:00:00z", 1000d)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

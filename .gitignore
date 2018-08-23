@@ -1,0 +1,7 @@
+# IDEs
+.idea
+
+# SBT
+target
+project/project
+project/target
